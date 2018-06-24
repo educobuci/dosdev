@@ -1,0 +1,3 @@
+MAIN.C(11): Warning! W131: No prototype found for function 'setVga'
+MAIN.C(13): Warning! W131: No prototype found for function 'setText'
+MAIN.C(31): Warning! W138: No newline at end of file
